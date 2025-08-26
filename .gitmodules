@@ -1,0 +1,36 @@
+[submodule "web-tools"]
+	path = web-tools
+	url = git@github.com:brad-luo/web-tools.git
+	branch = main
+[submodule "django_proj"]
+	path = django_proj
+	url = git@github.com:brad-projects/django_proj.git
+	branch = main
+[submodule "docker-mailserver"]
+	path = docker-mailserver
+	url = git@github.com:brad-projects/docker-mailserver.git
+	branch = main
+[submodule "flask_proj"]
+	path = flask_proj
+	url = git@github.com:brad-projects/flask_proj.git
+	branch = main
+[submodule "jenkins"]
+	path = jenkins
+	url = git@github.com:brad-luo/jenkins.git
+	branch = main
+[submodule "react_proj"]
+	path = react_proj
+	url = git@github.com:brad-projects/react_proj.git
+	branch = main
+[submodule "typescript_proj"]
+	path = typescript_proj
+	url = git@github.com:brad-projects/typescript_proj.git
+	branch = main
+[submodule "microservice-grpc"]
+	path = microservice-grpc
+	url = git@github.com:brad-projects/microservice-grpc.git
+	branch = main
+[submodule "web-calendar-dashboard"]
+	path = web-calendar-dashboard
+	url = https://github.com/brad-luo/web-calendar-dashboard.git
+	branch = main
