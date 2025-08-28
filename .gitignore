@@ -8,6 +8,3 @@
 *.venv
 
 *.log
-
-# info: ingore this first
-z-others

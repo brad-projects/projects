@@ -8,3 +8,5 @@ git submodule add  -b main $(git -C typescript_proj remote get-url origin) types
 
 git submodule add  -b main $(git -C web-calendar-dashboard remote get-url origin) web-calendar-dashboard
 git submodule add  -b main $(git -C web-tools remote get-url origin) web-tools
+
+git submodule add  -b main $(git -C z-other-projects remote get-url origin) z-other-projects

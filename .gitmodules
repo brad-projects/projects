@@ -34,3 +34,7 @@
 	path = web-calendar-dashboard
 	url = https://github.com/brad-luo/web-calendar-dashboard.git
 	branch = main
+[submodule "z-other-projects"]
+	path = z-other-projects
+	url = git@github.com:brad-luo/z-other-projects
+	branch = main
