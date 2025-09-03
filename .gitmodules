@@ -38,3 +38,11 @@
 	path = z-other-projects
 	url = git@github.com:brad-luo/z-other-projects
 	branch = main
+[submodule "multi-tenancy-aws"]
+	path = multi-tenancy-aws
+	url = git@github.com:brad-luo/multi-tenancy-aws.git
+	branch = main
+[submodule "brad-luo"]
+	path = brad-luo
+	url = https://github.com/brad-luo/brad-luo
+	branch = main

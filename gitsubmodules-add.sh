@@ -10,3 +10,7 @@ git submodule add  -b main $(git -C web-calendar-dashboard remote get-url origin
 git submodule add  -b main $(git -C web-tools remote get-url origin) web-tools
 
 git submodule add  -b main $(git -C z-other-projects remote get-url origin) z-other-projects
+
+git submodule add  -b main $(git -C multi-tenancy-aws remote get-url origin) multi-tenancy-aws
+
+git submodule add  -b main $(git -C brad-luo  remote get-url origin) brad-luo
