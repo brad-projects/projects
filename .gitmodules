@@ -46,3 +46,11 @@
 	path = brad-luo
 	url = https://github.com/brad-luo/brad-luo
 	branch = main
+[submodule "gcp"]
+	path = gcp
+	url = git@github.com:brad-luo/gcp.git
+	branch = main
+[submodule "aws"]
+	path = aws
+	url = git@github.com:brad-luo/aws.git
+	branch = main
